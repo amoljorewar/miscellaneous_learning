@@ -1,4 +1,4 @@
-# Single Sign-On (SSO) and Security Assertion Markup Language (SAML)
+# Single Sign-On (SSO) VS Security Assertion Markup Language (SAML)
 
 ## SSO (Single Sign-On)
 Single sign-on (SSO) is a user authentication process that allows users to access multiple applications with one set of login credentials.
